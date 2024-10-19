@@ -437,12 +437,15 @@ img {
 }
 
 .footer-container {
-  margin-right: 120px;
+  display: flex;
 }
 
 .footer-logo-class {
   display: inline-block;
   margin-bottom: 16px;
+}
+
+.footer-chart-start {
   margin-right: 120px;
 }
 
