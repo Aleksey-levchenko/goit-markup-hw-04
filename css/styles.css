@@ -472,8 +472,8 @@ img {
   margin-right: 120px;
 }
 
-.team-icon-background:hover,
-.team-icon-background:focus {
+.team-icon-background-footer:hover,
+.team-icon-background-footer:focus {
   background-color: #31d0aa;
 }
 
