@@ -471,3 +471,20 @@ img {
   align-items: baseline;
   margin-right: 120px;
 }
+
+.team-icon-background:hover,
+.team-icon-background:focus {
+  background-color: #31d0aa;
+}
+
+.team-footer-icon-item {
+  display: flex;
+  gap: 16px;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer-soc-content {
+  margin-right: 120px;
+}
