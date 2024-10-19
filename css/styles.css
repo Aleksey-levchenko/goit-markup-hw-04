@@ -304,6 +304,7 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
+  margin-bottom: 8px;
 }
 
 .team-icon-list {
@@ -312,7 +313,6 @@ img {
   margin: 0 auto;
   align-items: center;
   justify-content: center;
-  padding-bottom: 32px;
 }
 
 .team-icon-item {
@@ -469,4 +469,5 @@ img {
 .footer-content {
   display: flex;
   align-items: baseline;
+  margin-right: 120px;
 }
